@@ -1,0 +1,12 @@
+build/
+dist/
+*.svault
+*.lck
+*.tmp
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+.DS_Store
